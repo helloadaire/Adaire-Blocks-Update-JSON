@@ -1,7 +1,7 @@
 {
     "name" : "Adaire Blocks",
  	"version" : "1.0.4",
-    "download_url": "https://github.com/helloadaire/Adaire-Blocks/releases/download/1.0.3/adaire-blocks.zip",
+    "download_url": "https://github.com/helloadaire/Adaire-Blocks/releases/download/1.0.4/adaire-blocks.zip",
     "sections": {
         "description": "A powerful WordPress plugin that helps developers and designers create visually stunning, high-performance websites with ease right inside the Gutenberg editor.",
         "changelog": "<h4>1.0.4</h4><ul><li>Created update class</li></ul>",
